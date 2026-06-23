@@ -1,0 +1,7 @@
+{
+  "enabledPlugins": {
+    "agents-language-specialists@buildwithclaude": true,
+    "agents-quality-security@buildwithclaude": true,
+    "superpowers@claude-plugins-official": true
+  }
+}
